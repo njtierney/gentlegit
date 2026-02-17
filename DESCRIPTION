@@ -16,3 +16,5 @@ Imports:
   rmarkdown,
   spelling,
   usethis
+URL: https://github.com/njtierney/gentlegit
+BugReports: https://github.com/njtierney/gentlegit/issues
