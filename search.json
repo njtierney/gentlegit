@@ -10,41 +10,11 @@
     ]
   },
   {
-    "objectID": "index.html#prerequisites",
-    "href": "index.html#prerequisites",
-    "title": "Introduction to Git and GitHub",
-    "section": "2.1 Prerequisites",
-    "text": "2.1 Prerequisites\n\nNo prior experience with Git or version control required\nSome experience with R, Python, or other programming language",
-    "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction to Git and GitHub</span>"
-    ]
-  },
-  {
-    "objectID": "index.html#learning-outcomes",
-    "href": "index.html#learning-outcomes",
-    "title": "Introduction to Git and GitHub",
-    "section": "2.2 Learning outcomes",
-    "text": "2.2 Learning outcomes\nBy the end of the course you should be able to:\n\nSet up Git on a project\nLink your local git project with an online project on GitHub\nUnderstand how to use issues to track ideas or problems\nUse branches to manage features or changes\nBasic collaboration workflows (pull requests, merging, merge conflicts)\nWork on new ideas and code, without the cocnerns of breaking working code\nCollaborate with others without stepping on each other’s toes\nKnow how to resolve basic git issues\nIdentify when and where bugs are introduced",
-    "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction to Git and GitHub</span>"
-    ]
-  },
-  {
-    "objectID": "index.html#course-website",
-    "href": "index.html#course-website",
-    "title": "Introduction to Git and GitHub",
-    "section": "2.3 Course website",
-    "text": "2.3 Course website\nhttps://gentle-git.njtierney.com",
-    "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction to Git and GitHub</span>"
-    ]
-  },
-  {
     "objectID": "index.html#schedule",
     "href": "index.html#schedule",
     "title": "Introduction to Git and GitHub",
-    "section": "2.4 Schedule",
-    "text": "2.4 Schedule\n\n2.4.1 Version Control Fundamentals\n\nThe what and why of version control\n\nGit vs OneDrive/Google Drive/Dropbox\n\nConcepts, and terminology\n\nRepo, commits, branches,\n\ngit vs github\nInstallation and setup\n\nGit Handshake\nSetup with git/github\nConnect to RStudio/Positron/VS code\nUsing usethis with git\nThe (many) ways of creating a git repository\n\n\n\n\n2.4.2 Git Workflow\n\nCommit Early, commit often\nWhat makes a good commit\n.gitignore file\nHow to write a useful commit message\nHow to view commits / commit history\nHow to look at differences between commits\nHow to go back to another commit\nPublic vs private repositories\nTracking your work in github: Issues, Milestones, Labels, etc\n\n\n\n2.4.3 GitHub and Branching\n\nUsing branches\n\nMake changes without breaking code\nLink every branch to an issue\nCreating, moving between branches\nMerging branches and pull requests\ngit hygiene\n\nPracticing branching\n\nLink branch and issue.\nResolve issue.\nusing usethis with\n\n\n\n\n2.4.4 Collaborating with git\n\nForking vs branching\nHow to code review\nHow to “import” someones changes onto your machine\nMerge conflicts\n\nWhat, and why?\nHow to read merge conflicts\nResolving conflicts\n\nSimulating, and practicing conflict resolutions\n\n\n\n2.4.5 Github Actions\n\ngithub pages\nusing github workflows to automate work\nLinking github with Zenodo\n\n\n\n2.4.6 git: some more technical aspects\n\nLinking git with an existing project\nSome basic troubleshooting of common errors\nUnderstanding git push and git pull\nPush an existing project to GitHub\ngit bisect to find bugs",
+    "section": "2.1 Schedule",
+    "text": "2.1 Schedule\n\n2.1.1 Version Control Fundamentals\n\nThe what and why of version control\n\nGit vs OneDrive/Google Drive/Dropbox\n\nConcepts, and terminology\n\nRepo, commits, branches,\n\ngit vs github\nInstallation and setup\n\nGit Handshake\nSetup with git/github\nConnect to RStudio/Positron/VS code\nUsing usethis with git\nThe (many) ways of creating a git repository\n\n\n\n\n2.1.2 Git Workflow\n\nCommit Early, commit often\nWhat makes a good commit\n.gitignore file\nHow to write a useful commit message\nHow to view commits / commit history\nHow to look at differences between commits\nHow to go back to another commit\nPublic vs private repositories\nTracking your work in github: Issues, Milestones, Labels, etc\n\n\n\n2.1.3 GitHub and Branching\n\nUsing branches\n\nMake changes without breaking code\nLink every branch to an issue\nCreating, moving between branches\nMerging branches and pull requests\ngit hygiene\n\nPracticing branching\n\nLink branch and issue.\nResolve issue.\nusing usethis with\n\n\n\n\n2.1.4 Collaborating with git\n\nForking vs branching\nHow to code review\nHow to “import” someones changes onto your machine\nMerge conflicts\n\nWhat, and why?\nHow to read merge conflicts\nResolving conflicts\n\nSimulating, and practicing conflict resolutions\n\n\n\n2.1.5 Github Actions\n\ngithub pages\nusing github workflows to automate work\nLinking github with Zenodo\n\n\n\n2.1.6 git: some more technical aspects\n\nLinking git with an existing project\nSome basic troubleshooting of common errors\nUnderstanding git push and git pull\nPush an existing project to GitHub\ngit bisect to find bugs",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction to Git and GitHub</span>"
     ]
