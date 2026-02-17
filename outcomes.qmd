@@ -1,0 +1,22 @@
+## Prerequisites
+
+- No prior experience with Git or version control required
+- Some experience with R, Python, or other programming language
+
+## Learning outcomes
+
+By the end of the course you should be able to:
+
+- Set up Git on a project
+- Link your local git project with an online project on GitHub
+- Understand how to use issues to track ideas or problems
+- Use branches to manage features or changes
+- Basic collaboration workflows (pull requests, merging, merge conflicts)
+- Work on new ideas and code, without the cocnerns of breaking working code
+- Collaborate with others without stepping on each other's toes
+- Know how to resolve basic git issues
+- Identify when and where bugs are introduced
+
+## Course website
+
+<https://gentle-git.njtierney.com>

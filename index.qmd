@@ -1,0 +1,15 @@
+---
+title: "Introduction to Git and GitHub"
+---
+
+# Welcome
+
+Welcome to Git and GitHub! This course will teach you version control fundamentals and help you collaborate confidently using Git and GitHub.
+
+# Course Materials
+
+Materials will be added here as we progress through the course.
+
+{{< include outcomes.qmd >}}
+
+{{< include schedule.md >}}

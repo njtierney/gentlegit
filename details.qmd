@@ -1,0 +1,3 @@
+## Details
+
+Transparency is key to trust. We have all (almost certainly) used services like Google Drive, and Dropbox. These services facilitate collaboration by allowing many people to work on the same documents, and have them stay in-sync. These systems are similar to the version control systems of Git, but Git helps you track every change to your code, understand what changed and why, and work confidently knowing you can always return to a previous working state. It's like a "super Google Drive" or "super Dropbox". It keeps track of changes, but also does so much more.
